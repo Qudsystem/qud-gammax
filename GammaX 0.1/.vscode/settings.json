@@ -1,0 +1,8 @@
+{
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "Codegeex.GenerationPreference": "block",
+    "Codegeex.RepoIndex": true,
+    "Codegeex.Chat.fontSize": 17,
+    "MutableAI.upsell": false
+}
